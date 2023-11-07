@@ -1,1 +1,2 @@
 New wonderful file in a separete branch
+One more line
